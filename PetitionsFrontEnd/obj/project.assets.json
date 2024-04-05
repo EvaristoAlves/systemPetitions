@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\evari\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontEnd\\PetitionsFrontEnd.csproj",
-      "projectName": "PetitionsFrontEnd",
-      "projectPath": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontEnd\\PetitionsFrontEnd.csproj",
+      "projectUniqueName": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontend\\PetitionsFrontend.csproj",
+      "projectName": "PetitionsFrontend",
+      "projectPath": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontend\\PetitionsFrontend.csproj",
       "packagesPath": "C:\\Users\\evari\\.nuget\\packages\\",
-      "outputPath": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontEnd\\obj\\",
+      "outputPath": "C:\\Aplicacoes\\systemPetitions\\PetitionsFrontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2\\RuntimeIdentifierGraph.json"
       }
     }
   }

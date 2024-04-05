@@ -1,0 +1,46 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.log
+*.swp
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+.vs/
+
+# Arquivos de dependência e ferramentas
+packages/
+*.dll
+*.exe
+
+# Arquivos gerados pelo .NET Core
+*.user
+*.vscode
+
+# Arquivos de build do MSBuild
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]inaries/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Outros arquivos e pastas
+.idea/
+*.suo
+*.user
+*.sln.docstates
+Thumbs.db
+_ReSharper*/
+*.Backup
+*.bak
+*.vspscc
+*.vssscc
